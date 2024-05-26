@@ -33,10 +33,20 @@
 
 // first_name
 
+/*
 var name = "ali";
 var NAME = "ali2";
 var Name = "ali3";
 
+*/
 document.write(NAME);
 // document.write(NAME);
 // document.write(Name);
+
+//v
+
+/*    
+
+
+
+*/
