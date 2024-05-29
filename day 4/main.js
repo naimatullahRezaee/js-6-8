@@ -46,6 +46,42 @@
 // console.log(y);
 // console.log(typeof y);
 
-let x = 2 < 0;
-console.log(x);
-console.log(typeof x);
+// let x = 2 < 0;
+// console.log(x);
+// console.log(typeof x);
+
+// let x;
+
+// console.log(x);
+// console.log(typeof x);
+
+// let y = null;
+// console.log(y);
+
+// console.log(typeof y);
+
+// console.log(undefined == null);
+
+// let shop = [1, 2, 3, 5];
+
+// console.log(shop);
+// console.log(typeof shop);
+
+// let person = {
+//   name: "ali",
+//   age: 14,
+// };
+// console.log(person);
+
+// console.log(typeof person);
+
+// function msg() {
+//   console.log("hello world");
+// }
+
+// console.log(typeof msg);
+
+// let x = 10;
+
+// x = x.toString();
+// console.log(typeof x);
