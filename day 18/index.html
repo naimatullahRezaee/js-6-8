@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+
+    <style>
+      .divs {
+        display: flex;
+        gap: 10px;
+      }
+
+      .contianer {
+        width: 200px;
+        height: 200px;
+        background-color: rgb(48, 193, 63);
+      }
+      .contianer img {
+        width: 200px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="divs">
+      <div class="contianer" id="img1">
+        <img src="images/tm5.jpg" alt="" />
+      </div>
+      <div class="contianer" id="img2">
+        <img src="images/tm5.jpg" alt="" />
+      </div>
+    </div>
+    <input type="button" value="Hide" onclick="hideimg();" />
+    <input type="button" value="show" onclick="show();" />
+
+    <script src="script.js"></script>
+  </body>
+</html>
